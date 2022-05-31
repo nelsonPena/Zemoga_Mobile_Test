@@ -1,6 +1,6 @@
 # Zemoga Mobile Test
 
-_Este proyecto es desarrollado con la finalidad de superar el proceso de selección en Zemoga
+Este proyecto es desarrollado con la finalidad de superar el proceso de selección en Zemoga
 
 ## Estructura 🏢
 
